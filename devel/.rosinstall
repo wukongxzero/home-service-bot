@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pavan/hsr2/catkin_ws/devel/setup.sh
